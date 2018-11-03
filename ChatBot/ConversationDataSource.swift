@@ -1,4 +1,5 @@
 import Foundation
+
 class ConversationDataSource {
     
     var messages: [Message] = [openingLine];
